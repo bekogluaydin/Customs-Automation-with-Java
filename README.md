@@ -14,9 +14,10 @@ Program Açıldığında Verebilecek Hatalar;
 - Veritabanı bağlantı Hatası (SqLite - jdbc)
 
 
-
 Projeyi açtıktan sonra eğer hata verirse, büyük ihtimalle "Project Problems one or more project resources could not be found." şeklinde bir hata 
 verecektir. Dediğim işlemleri yaptıktan sonra sorunsuz bir şekilde kullanabileceksiniz.
+
+
 
 Yöntem 1:
 
@@ -30,6 +31,8 @@ seçilen klasörde gerekli dosyalar mevcut.
 Örn: "sqlite-jdbc-3.7.2.jar file/folder could not be found(in Gumruk_Otomasyon)" diyorsa 
 bu kısımdan ilgili dosyayı (sqlite-jdbc-3.7.2.jar) seçin veya 
 "jcalendar-1.4.jar file/folder could not be found(in Gumruk_Otomasyon)" ise jcalendar-1.4.jar seçin. 
+
+
 
 Yöntem 2:
 
@@ -54,6 +57,8 @@ Possible Errors When The Application Is Opened;
 
 If it error after opening the project, most likely "Project Problems one or more project resources could not be found." an error like will give. After performing the operations I said, you will be able to use it without any problems.
 
+
+
 Method 1:
 
 - Press Resolve Problems on the error screen.
@@ -66,6 +71,7 @@ The required files are available in the selected folder.
 
 e.g: If it says "sqlite-jdbc-3.7.2.jar file/folder could not be found(in Gumruk_Otomasyon)", select the relevant file (sqlite-jdbc-3.7.2.jar) from this section or 
 it says "jcalendar-1.4.jar file/folder could not be found(in Gumruk_Otomasyon)" select this file jcalendar-1.4.jar 
+
 
 
 Method 2: 
